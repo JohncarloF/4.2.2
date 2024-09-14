@@ -1,0 +1,22 @@
+Key Terms:
+Reference Error - An error that occurs when some variable being referenced doesn't exist or can't be accessed 
+
+Syntax Error - an error that occurs when some part of the predfined Java Script Syntax is being used incorrectly 
+
+Type Error - an error that occurs when you misuse a data type in JavaScript, meaning that an operation can't be proformed 
+
+Silent Error - an error that doesn't immediately surface when the code is return
+
+Run Time Error notes:
+
+Here we examing the error and break down it's message. 
+
+1 SyntaxError: function statement requires a name
+
+It tells you the error type before the colon : 
+The second part of the error tells you the 
+
+If you see the history of the repo you can see the different types of exerises that give out the three most common Errors.
+
+Syntax error file has the different error that may occur with it's creation in the first commit.
+
